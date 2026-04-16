@@ -1,2 +1,5 @@
-# zomato-practice-clone
-# zomato-practice-clone
+MERN stack project. 
+
+Node - Express backend
+MongoDB - database
+React frontend
